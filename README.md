@@ -84,8 +84,6 @@ The project includes a **Streamlit** web application that provides an intuitive 
 
 This project implements a system for predicting crop diseases based on images provided by the user. It covers 26 different diseases across 14 different plants, helping farmers diagnose plant diseases efficiently and accurately.
 
-![Crop Disease Prediction](https://github.com/your-username/repository-name/blob/main/crop_disease_prediction_system.png)
-
 ## Overview
 
 - **Diseases Predicted**: Late Blight, Black Rot, Target Spot, Leaf Blight, and 22 more diseases (26 diseases in total).
